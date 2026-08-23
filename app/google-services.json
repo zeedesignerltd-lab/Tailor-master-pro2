@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "827516595770-p7f1o7gq7ihan6s79n6d7eacdp7m4q5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tailormaster.pro",
+            "certificate_hash": "fd6dd684aa0fe6d72ce4c23da7bf2e60614e598b"
+          }
+        },
+        {
           "client_id": "827516595770-d9itn8h7v8nk87tntnm1ag28c9384r4e.apps.googleusercontent.com",
           "client_type": 3
         }
