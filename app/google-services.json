@@ -12,7 +12,12 @@
           "package_name": "com.tailormaster.pro"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "827516595770-d9itn8h7v8nk87tntnm1ag28c9384r4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDQfHmew_Kgt5S9Uv6tYq8c8AXXYGxJ8H0"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827516595770-d9itn8h7v8nk87tntnm1ag28c9384r4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
